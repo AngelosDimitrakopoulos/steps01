@@ -1,3 +1,8 @@
+# Description:
+
+This project is an exercice to practice React, created from <i>Jonas Schmedtmann</i> in his Udemy Course <b>The Ultimate React Course 2024: React, Redux & More</b>.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
